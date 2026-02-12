@@ -1,0 +1,179 @@
+#task 1
+'''a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+if a < b:
+    print("Smallest number:", a)
+else:
+    print("Smallest number:", b)'''
+#task 2
+'''a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+if a > b:
+    print("Largest number:", a)
+else:
+    print("Largest number:", b)'''
+#task 3
+'''n=int(input("Enter number: "))
+if n < 0:
+    print("Absolute value:", -n)
+else:
+    print("Absolute value:", n)'''
+#task 4
+'''n=int(input("Enter number: "))
+if n%2 == 0:
+    print("Even number")
+else:
+    print("Odd number")'''
+#task 5
+'''n=int(input("Enter number: "))
+if n%5 == 0:
+    print("Multiple of 5")
+else:
+    print("Not a multiple of 5")'''
+#task 6
+'''
+n=int(input("Enter number: "))
+if n%10 == 0:
+    print("Multiple of 10")
+else:
+    print("Not a multiple of 10")'''
+#task7
+'''
+d=int(input("enter the number"))
+if 10<=d<=99:
+    print("two digital number ")
+else:
+    print("not two digital number")'''
+    
+
+#task 8
+'''
+d=int(input("enter the number"))
+if 100<=d<=999:
+    print("three digital number ")
+else:
+    print("not three digital number")'''
+
+#task 9
+'''n=int(input("Enter number: "))
+if n%10 == 0:
+    print("Ends with zero")
+else:
+    print("Does not end with zero")'''
+#task 10
+'''n=int(input("Enter number: "))
+if n*n > 50:
+    print("Square is above 50")
+else:
+    print("Square is below 50")'''
+#task 11
+'''a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+diff = a - b
+if diff == 0:
+    print("Difference is zero")
+else:
+    print("Difference is not zero")'''
+#task 12
+'''
+marks = int(input("Enter marks: "))
+if marks >= 50:
+    print("Pass")
+else:
+    print("Fail")
+#task 13
+n = int(input("Enter number: "))
+if n % 10 == 0:
+    print("Divisible by 10")
+else:
+    print("Not divisible by 10") '''
+#task 14
+'''
+a=50
+b=60
+if a>b:
+    print("biggest number a")
+else:
+    print("biggest number b")'''
+#task 15
+'''user=int(input("enter the number:"))
+if user ==1:
+    print("The exam will be easy")
+else:
+    print("The exam will be difficult")'''
+#task 16
+'''user=int(input("enter the number:"))
+if user ==1:
+    print("you can go out and play")
+else:
+    print("you cannot go out and play")'''
+#task 17
+'''l=20
+b=20
+if l==b:
+    print("it's square")
+else:
+    print("it's rectangle")'''
+#task 18
+'''
+n=int(input("enter the number"))
+if 65<=n<=90:
+    print("ASCII value of an uppercase alphabet")
+else:
+    print("not ASCII value of an uppercase alphabet")'''
+#task 19
+'''
+n=int(input("enter the number"))
+if 97<=n<=122:
+    print("ASCII value of an lowercase alphabet")
+else:
+    print("not ASCII value of an lowercase alphabet")'''
+#task20
+'''
+n=int(input("enter the number"))
+if 48<=n<=57:
+    print("number character")
+else:
+    print("not number character")'''
+
+
+
+#task 21
+'''n=15
+if n%5==0 and n%3==0:
+    print("multiple of 5 and 3")
+else:
+    print("not multiple of 5 and 3")'''
+#task 22
+'''
+d=int(input("enter the number"))
+if 100<=d<=999:
+    print("three digital number ")
+else:
+    print("not three digital number") '''
+    
+#task 23
+'''c=int(input("enter the number"))
+if c%2==0 and c%5==0 and c%10==0:
+    print("three digital number multiple of 2,5,10")
+else:
+    print("not three digital number multiple of 2,5,10")'''
+
+    
+
+#task 24
+'''a=int(input("enter the number"))
+b=int(input("enter the number"))
+if a%2==0 and b%2==b:
+    print("find their product")
+else:
+    print("find their sum")'''
+
+#task 25
+n=1007
+if  n%7==0 or n%10==7 :
+    print("buzz number")
+else:
+    print("not buzz number")
+
+         
