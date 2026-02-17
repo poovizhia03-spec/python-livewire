@@ -1,0 +1,138 @@
+
+#task 12
+
+num = int(input("Enter a number: "))
+
+for i in range(1, num + 1):
+    if num % i == 0:
+        print(i, end=" ")
+
+
+#task13
+num = int(input("Enter a number: "))
+count = 0
+
+for i in range(1, num + 1):
+    if num % i == 0:
+        count += 1
+
+print("Number of factors =", count)'''
+
+#task14
+num = int(input("Enter a number: "))
+count = 0
+
+for i in range(1, num + 1):
+    if num % i == 0:
+        count += 1
+
+if count == 2:
+    print("Yes")
+else:
+    print("No")
+#task15
+
+n = int(input("Enter a number: "))
+
+for num in range(2, n + 1):
+    count = 0
+    for i in range(1, num + 1):
+        if num % i == 0:
+            count += 1
+    if count == 2:
+        print(num, end=" ")
+#task16
+
+a = int(input("Enter first number: "))
+b = int(input("Enter second number: "))
+
+gcf = 1
+
+for i in range(1, min(a, b) + 1):
+    if a % i == 0 and b % i == 0:
+        gcf = i
+#task 17
+n = int(input("Enter first number: "))
+m = int(input("Enter second number: "))
+
+print("Common factors are:")
+
+for i in range(1, min(n, m) + 1):
+    if n % i == 0 and m % i == 0:
+        print(i, end=" ")
+
+#task 18
+n=50
+a=0
+b=1
+print(a,end=" ")
+print(b,end=" ")
+for i in range(0,n+1):
+      s=a+b
+      if s>=n:
+            break
+      print(s,end=" ")
+      a,b=b,s
+
+#task 19
+num = int(input("Enter a number: "))
+fact = 0
+
+for i in range(1, num + 1):
+     fact= fact*i
+print("Factorial =", fact)
+#task20
+
+even = 0
+odd = 0
+
+numbers = input("Enter numbers : ").split()
+
+for n in numbers:
+    n = int(n)
+    if n % 2 == 0:
+        even += n
+    else:
+        odd += n
+
+print("Even sum =", even)
+print("odd sum=",odd)
+
+
+#task 21
+n=int(input("enter a number:"))
+n1=n
+rev=0
+while n>0:
+      x=n%10
+      rev=(rev*10)+x
+      n//=10
+if n1==rev:
+      print("palindrome")
+else:
+      print("not palindrome")
+
+#task 22
+num = int(input("Enter a number: "))
+temp = num
+sum = 0
+n = len(str(num))
+while temp > 0:
+    digit = temp % 10
+    sum = sum + digit ** n
+    temp = temp // 10
+
+if sum == num:
+    print("Armstrong number")
+else:
+    print("Not an Armstrong number")
+#task 23
+n = int(input("Enter a number : "))
+
+for i in range(1, n + 1):
+    for j in range(1, i + 1):
+        print(j, end=" ")
+    print()
+
+
+print("Greatest Common Factor =", gcf)
