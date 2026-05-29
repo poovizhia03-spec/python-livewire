@@ -1,0 +1,210 @@
+[
+    {
+        "sale_id": "8fc195c1",
+        "timestamp": "2026-04-21 22:03:21",
+        "items": [
+            {
+                "name": "ooo",
+                "quantity": 2,
+                "subtotal": 46.0
+            }
+        ],
+        "total_cost": 46.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "205954ef",
+        "timestamp": "2026-04-21 22:05:07",
+        "items": [
+            {
+                "name": "ooo",
+                "quantity": 2,
+                "subtotal": 46.0
+            }
+        ],
+        "total_cost": 46.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "86c6c83a",
+        "timestamp": "2026-04-21 22:16:59",
+        "items": [
+            {
+                "name": "yy",
+                "quantity": 1,
+                "subtotal": 1.0
+            }
+        ],
+        "total_cost": 1.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "d7198d4a",
+        "timestamp": "2026-04-22 11:33:44",
+        "items": [
+            {
+                "name": "dkddssa",
+                "quantity": 4,
+                "subtotal": 172.0
+            }
+        ],
+        "total_cost": 172.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "903cfd32",
+        "timestamp": "2026-04-23 11:39:20",
+        "items": [
+            {
+                "name": "Rabeprazole 20mg",
+                "quantity": 2,
+                "subtotal": 76.0
+            }
+        ],
+        "total_cost": 76.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "0f622e3a",
+        "timestamp": "2026-04-23 12:15:05",
+        "items": [
+            {
+                "name": "Paracetamol 500mg",
+                "quantity": 2,
+                "subtotal": 31.0
+            }
+        ],
+        "total_cost": 31.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "d05d3117",
+        "timestamp": "2026-04-24 13:59:22",
+        "items": [
+            {
+                "name": "Allegra 120mg",
+                "quantity": 2,
+                "subtotal": 90.0
+            }
+        ],
+        "total_cost": 90.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "8696050f",
+        "timestamp": "2026-04-24 14:24:40",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 4,
+                "subtotal": 4.0
+            }
+        ],
+        "total_cost": 4.0,
+        "payment_method": "Cash"
+    },
+    {
+        "sale_id": "3bf3ea8f",
+        "timestamp": "2026-04-24 14:25:34",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 2,
+                "subtotal": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "31144b4e",
+        "timestamp": "2026-04-24 14:30:31",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 2,
+                "subtotal": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "f7369b4f",
+        "timestamp": "2026-04-24 14:32:24",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 3,
+                "subtotal": 3.0
+            }
+        ],
+        "total_cost": 3.0,
+        "payment_method": "UPI"
+    },
+    {
+        "sale_id": "78abe285",
+        "timestamp": "2026-04-24 14:34:12",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 2,
+                "subtotal": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "Cash"
+    },
+    {
+        "sale_id": "a1cc73e0",
+        "timestamp": "2026-04-24 14:34:45",
+        "items": [
+            {
+                "name": "elcot",
+                "quantity": 2,
+                "subtotal": 2.0
+            }
+        ],
+        "total_cost": 2.0,
+        "payment_method": "Cash"
+    },
+    {
+        "sale_id": "e76a8430",
+        "timestamp": "2026-04-24 14:45:52",
+        "items": [
+            {
+                "name": "lokesh",
+                "quantity": 2,
+                "subtotal": 50.0
+            }
+        ],
+        "total_cost": 50.0,
+        "payment_method": "Cash"
+    },
+    {
+        "sale_id": "2e75da46",
+        "timestamp": "2026-04-24 14:56:30",
+        "items": [
+            {
+                "name": "cooled",
+                "quantity": 2,
+                "subtotal": 4.0
+            }
+        ],
+        "total_cost": 4.0,
+        "payment_method": "Cash"
+    },
+    {
+        "sale_id": "bf74691a",
+        "timestamp": "2026-05-29 11:35:21",
+        "items": [
+            {
+                "name": "Aspirin 75mg",
+                "quantity": 1,
+                "subtotal": 8.0
+            }
+        ],
+        "total_cost": 8.0,
+        "payment_method": "UPI"
+    }
+]

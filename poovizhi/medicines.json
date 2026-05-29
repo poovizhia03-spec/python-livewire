@@ -1,0 +1,188 @@
+{
+    "1": {
+        "name": "poovizhi",
+        "price": 45.0,
+        "stock": 23,
+        "expiry_date": "2026-06-06"
+    },
+    "2": {
+        "name": "Paracetamol 500mg",
+        "price": 15.5,
+        "stock": 198,
+        "expiry_date": "2026-10-15"
+    },
+    "3": {
+        "name": "Ibuprofen 400mg",
+        "price": 22.0,
+        "stock": 150,
+        "expiry_date": "2025-11-20"
+    },
+    "4": {
+        "name": "Amoxicillin 250mg",
+        "price": 45.0,
+        "stock": 100,
+        "expiry_date": "2025-05-10"
+    },
+    "5": {
+        "name": "Cetirizine 10mg",
+        "price": 12.0,
+        "stock": 300,
+        "expiry_date": "2027-01-25"
+    },
+    "6": {
+        "name": "Azithromycin 500mg",
+        "price": 85.0,
+        "stock": 80,
+        "expiry_date": "2026-08-30"
+    },
+    "7": {
+        "name": "Omeprazole 20mg",
+        "price": 35.0,
+        "stock": 120,
+        "expiry_date": "2026-06-15"
+    },
+    "8": {
+        "name": "Pantoprazole 40mg",
+        "price": 40.0,
+        "stock": 90,
+        "expiry_date": "2026-12-01"
+    },
+    "9": {
+        "name": "Metformin 500mg",
+        "price": 18.0,
+        "stock": 250,
+        "expiry_date": "2027-02-28"
+    },
+    "10": {
+        "name": "Losartan 50mg",
+        "price": 25.0,
+        "stock": 180,
+        "expiry_date": "2025-09-10"
+    },
+    "11": {
+        "name": "Amlodipine 5mg",
+        "price": 15.0,
+        "stock": 210,
+        "expiry_date": "2025-10-05"
+    },
+    "12": {
+        "name": "Atorvastatin 20mg",
+        "price": 30.0,
+        "stock": 140,
+        "expiry_date": "2026-01-20"
+    },
+    "13": {
+        "name": "Aspirin 75mg",
+        "price": 8.0,
+        "stock": 399,
+        "expiry_date": "2027-05-15"
+    },
+    "14": {
+        "name": "Vitamin C 500mg",
+        "price": 10.0,
+        "stock": 350,
+        "expiry_date": "2026-11-30"
+    },
+    "15": {
+        "name": "Vitamin D3 60000 IU",
+        "price": 55.0,
+        "stock": 110,
+        "expiry_date": "2026-03-25"
+    },
+    "16": {
+        "name": "Calcium Sandoz 250mg",
+        "price": 22.0,
+        "stock": 160,
+        "expiry_date": "2026-07-15"
+    },
+    "17": {
+        "name": "Dolo 650",
+        "price": 15.0,
+        "stock": 500,
+        "expiry_date": "2026-09-10"
+    },
+    "18": {
+        "name": "Allegra 120mg",
+        "price": 45.0,
+        "stock": 93,
+        "expiry_date": "2025-12-05"
+    },
+    "19": {
+        "name": "Domperidone 10mg",
+        "price": 12.0,
+        "stock": 230,
+        "expiry_date": "2026-02-18"
+    },
+    "20": {
+        "name": "Rabeprazole 20mg",
+        "price": 38.0,
+        "stock": 103,
+        "expiry_date": "2025-08-20"
+    },
+    "21": {
+        "name": "Diclofenac 50mg",
+        "price": 20.0,
+        "stock": 170,
+        "expiry_date": "2026-04-10"
+    },
+    "22": {
+        "name": "Protin",
+        "price": 43.0,
+        "stock": 56,
+        "expiry_date": "2025-03-13"
+    },
+    "23": {
+        "name": "lokesh",
+        "price": 25.0,
+        "stock": 198,
+        "expiry_date": "2027-03-03"
+    },
+    "24": {
+        "name": "elcot",
+        "price": 1.0,
+        "stock": 18,
+        "expiry_date": "2023-07-07"
+    },
+    "25": {
+        "name": "fever tablet",
+        "price": 5.0,
+        "stock": 100,
+        "expiry_date": "2027-04-05"
+    },
+    "26": {
+        "name": "hybrid",
+        "price": 20.0,
+        "stock": 100,
+        "expiry_date": "2027-01-01"
+    },
+    "27": {
+        "name": "cooled",
+        "price": 2.0,
+        "stock": 298,
+        "expiry_date": "2027-04-03"
+    },
+    "28": {
+        "name": "cooled  ",
+        "price": 1.0,
+        "stock": 1,
+        "expiry_date": "2026-05-05"
+    },
+    "29": {
+        "name": "skin cancer",
+        "price": 1.0,
+        "stock": 20,
+        "expiry_date": "2027-04-09"
+    },
+    "30": {
+        "name": "head pain",
+        "price": 50.0,
+        "stock": 300,
+        "expiry_date": "2026-09-10"
+    },
+    "32": {
+        "name": "stomach pain ",
+        "price": 1.0,
+        "stock": 1,
+        "expiry_date": "2027-04-09"
+    }
+}
